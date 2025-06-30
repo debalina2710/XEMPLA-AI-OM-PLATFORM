@@ -4,7 +4,7 @@
 
 # Xempla AI O&M Platform (Simple Version)
 
-> A basic college project that shows how AI can help in maintenance work using simple tools like Python and a web page.
+> A basic project that shows how AI can help in maintenance work using simple tools like Python and a web page.
 
 ---
 
